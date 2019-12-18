@@ -1,0 +1,103 @@
+body{
+	background-color: #F6F6F6;
+	color: rgb(30, 30, 30);
+	font-family: avenir next condensed;
+	font-size: 25px;
+}
+
+h1{
+	color:#2B354F;
+    font-family: helvetica;
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: 31px;
+}
+.lagrossediv{
+	width: 700px;
+	margin: 40px auto;
+}
+
+@media (max-width: 760px) {
+	.lagrossediv
+	{width: 600px}
+}
+@media (max-width: 500px) {
+	.lagrossediv {
+		width: 400px;
+	}
+}
+
+#un{
+	background: lavender;
+	margin: 20px;
+	padding:30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px #0C3332;
+	text-align: center;
+}
+
+#deux{
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px #0C3332;
+	text-align: center;
+}
+
+#trois{
+	background: lavender;
+	margin:20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px #0C3332;
+	text-align:center;
+}
+
+#quatre{
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px #0C3332;
+	text-align: center;
+}
+
+.ligne {
+	list-style: none;
+	padding-left: 0px;
+	text-align: center;
+}
+
+.ligne li {
+	display: inline;
+	padding-left: 30px;
+	text-align: center;
+}
+
+.ligne i {
+	font-size: 30px;
+	text-align: center;
+}
+
+#lagrossediv {
+	background: white
+	margin:0px auto;
+	width: 900px;
+}
+
+img {
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0.1)
+}
+
+h2{color:#0F272A;
+}
+a {text-decoration: #505050;
+	color: #1f508c
+}
+
+a:hover{ color: #82202A;
+}
+
+
